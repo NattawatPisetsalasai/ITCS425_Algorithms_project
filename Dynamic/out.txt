@@ -1,0 +1,5 @@
+10
+5
+6 10
+Algorithm execution time in nanosec: 781599
+Final outocome: 10000.0

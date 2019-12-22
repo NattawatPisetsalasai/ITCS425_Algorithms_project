@@ -1,0 +1,2 @@
+Final outcome: 13360.236021591892
+Algorithm execution time in nanosec: 5457000
